@@ -1,0 +1,816 @@
+2{
+  "users": [
+    {
+      "id": "cc62",
+      "name": "Rinshad",
+      "email": "rrinshadmt@gmail.com",
+      "password": "123",
+      "isBlock": false,
+      "role": "user",
+      "wishlist": [
+        "1"
+      ],
+      "cart": [],
+      "orders": [
+        {
+          "id": 1771995336556,
+          "date": "2026-03-02T04:55:36.556Z",
+          "items": [
+            {
+              "id": "2",
+              "name": "Acer Predator Helios",
+              "brand": "Acer",
+              "price": 170000,
+              "purpose": "Gaming",
+              "image": "https://assets.videomaker.com/2023/01/Predator-Helios-16-PH16-71-01.png",
+              "active": true,
+              "stock": 5,
+              "specs": {
+                "CPU": "Intel Core i7-12700H",
+                "GPU": "NVIDIA RTX 3060",
+                "RAM": "16GB DDR5",
+                "Storage": "512GB SSD",
+                "Display": "16\" QHD 165Hz",
+                "Battery": "80Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 1
+            }
+          ],
+          "subtotal": 170000,
+          "deliveryCharge": 100,
+          "tax": 20400,
+          "total": 190500,
+          "address": "calicut,kakanchey,kerala,5674",
+          "city": "kakkanchery",
+          "state": "Kerala",
+          "pincode": "6739",
+          "phone": "988978679",
+          "status": "returned"
+        },
+        {
+          "id": 1772082854123,
+          "date": "2026-03-01T05:14:14.123Z",
+          "items": [
+            {
+              "id": "2",
+              "name": "Acer Predator Helios",
+              "brand": "Acer",
+              "price": 170000,
+              "purpose": "Gaming",
+              "image": "https://assets.videomaker.com/2023/01/Predator-Helios-16-PH16-71-01.png",
+              "active": true,
+              "stock": 4,
+              "specs": {
+                "CPU": "Intel Core i7-12700H",
+                "GPU": "NVIDIA RTX 3060",
+                "RAM": "16GB DDR5",
+                "Storage": "512GB SSD",
+                "Display": "16\" QHD 165Hz",
+                "Battery": "80Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 1
+            },
+            {
+              "id": "9",
+              "name": "MSI Modern 14",
+              "brand": "MSI",
+              "price": 90000,
+              "purpose": "Professional",
+              "image": "https://storage-asset.msi.com/global/picture/image/feature/nb/Modern/Modern14C7M/prod-phtoto-1.png",
+              "active": true,
+              "stock": 9,
+              "specs": {
+                "CPU": "Intel Core i5-1240P",
+                "GPU": "Intel Iris Xe",
+                "RAM": "8GB DDR4",
+                "Storage": "512GB SSD",
+                "Display": "14\" FHD",
+                "Battery": "52Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 1
+            }
+          ],
+          "subtotal": 260000,
+          "deliveryCharge": 100,
+          "tax": 31200,
+          "total": 291300,
+          "address": "calicut,kakanchey",
+          "city": "kakkanchery",
+          "state": "Kerala",
+          "pincode": "6739",
+          "phone": "98897867989",
+          "status": "Pending"
+        }
+      ],
+      "phone": "98897867989",
+      "city": "kakkanchery",
+      "state": "Kerala",
+      "pincode": "6739",
+      "address": "calicut,kakanchey"
+    },
+    {
+      "id": "99e8",
+      "name": "RINSHAD",
+      "email": "a@gmail.com",
+      "password": "123",
+      "isBlock": false,
+      "role": "admin",
+      "wishlist": [
+        "1",
+        "2"
+      ],
+      "cart": [],
+      "orders": [
+        {
+          "id": 1772003291715,
+          "date": "2026-03-03T07:08:11.715Z",
+          "items": [
+            {
+              "id": "7",
+              "name": "ASUS ROG Strix G15",
+              "brand": "Asus",
+              "price": 165000,
+              "purpose": "Gaming",
+              "image": "https://dlcdnwebimgs.asus.com/gain/8B63759E-73EC-46D7-969C-90A146FE75FC/h300/w300",
+              "active": true,
+              "stock": 7,
+              "specs": {
+                "CPU": "AMD Ryzen 9 5900HX",
+                "GPU": "NVIDIA RTX 3060",
+                "RAM": "16GB DDR4",
+                "Storage": "1TB SSD",
+                "Display": "15.6\" FHD 300Hz",
+                "Battery": "90Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 3
+            },
+            {
+              "id": "6",
+              "name": "HP Spectre x360",
+              "brand": "HP",
+              "price": 155000,
+              "purpose": "Professional",
+              "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06254273.png",
+              "active": true,
+              "stock": 4,
+              "specs": {
+                "CPU": "Intel Core i7-1255U",
+                "GPU": "Intel Iris Xe",
+                "RAM": "16GB DDR4",
+                "Storage": "512GB SSD",
+                "Display": "13.5\" FHD Touch",
+                "Battery": "66Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 4
+            }
+          ],
+          "subtotal": 1115000,
+          "deliveryCharge": 100,
+          "tax": 133800,
+          "total": 1248900,
+          "address": "ponanni, malapuram, kerala , 6767",
+          "city": "Malappuram",
+          "state": "Kerala",
+          "pincode": "6739",
+          "phone": "9878988789",
+          "status": "Cancelled"
+        }
+      ],
+      "phone": "jjjk ",
+      "city": "jjjknj",
+      "state": "jjj k",
+      "pincode": "jj jk",
+      "address": "jjlhjnl"
+    },
+    {
+      "id": "e74b",
+      "name": "safa nasrin",
+      "email": "safasafanasrin475@gmail.com",
+      "password": "loop1234",
+      "isBlock": false,
+      "role": "user",
+      "wishlist": [],
+      "cart": [],
+      "orders": [
+        {
+          "id": 1772082976680,
+          "date": "2026-03-01T05:16:16.680Z",
+          "items": [
+            {
+              "id": "3",
+              "name": "Lenovo ThinkPad X1",
+              "brand": "Lenovo",
+              "price": 160000,
+              "purpose": "Professional",
+              "image": "https://www.pngall.com/wp-content/uploads/8/Lenovo-Laptop-PNG-Clipart.png",
+              "active": true,
+              "stock": 1,
+              "specs": {
+                "CPU": "Intel Core i7-1260P",
+                "GPU": "Intel Iris Xe",
+                "RAM": "16GB DDR4",
+                "Storage": "512GB SSD",
+                "Display": "14\" FHD",
+                "Battery": "57Wh",
+                "OS": "Windows 11 Pro"
+              },
+              "quantity": 1
+            },
+            {
+              "id": "8",
+              "name": "MacBook Pro M2",
+              "brand": "Apple",
+              "price": 180000,
+              "purpose": "Professional",
+              "image": "https://www.pngmart.com/files/23/Macbook-Pro-PNG-Photo.png",
+              "active": true,
+              "stock": 2,
+              "specs": {
+                "CPU": "Apple M2",
+                "GPU": "Integrated 10-core GPU",
+                "RAM": "16GB Unified",
+                "Storage": "512GB SSD",
+                "Display": "13.3\" Retina",
+                "Battery": "20 hours",
+                "OS": "macOS Ventura"
+              },
+              "quantity": 1
+            }
+          ],
+          "subtotal": 340000,
+          "deliveryCharge": 100,
+          "tax": 40800,
+          "total": 380900,
+          "address": "ivdeoke thanne",
+          "city": "kerla",
+          "state": "kerlA",
+          "pincode": "6789",
+          "phone": "7658688",
+          "status": "Pending"
+        }
+      ],
+      "phone": "7658688",
+      "city": "kerla",
+      "state": "kerlA",
+      "pincode": "6789",
+      "address": "ivdeoke thanne"
+    },
+    {
+      "id": "56eb",
+      "name": "nashi",
+      "email": "asd@gmail.com",
+      "password": "123",
+      "isBlock": false,
+      "role": "user",
+      "wishlist": [],
+      "cart": [],
+      "orders": []
+    },
+    {
+      "id": "a009",
+      "name": "Afsal",
+      "email": "afsal@gmail.com",
+      "password": "123",
+      "isBlock": false,
+      "role": "user",
+      "wishlist": [
+        "1",
+        "2",
+        "101",
+        "3"
+      ],
+      "cart": [
+        {
+          "productId": "5",
+          "qty": 1
+        }
+      ],
+      "orders": [
+        {
+          "id": 1772427103410,
+          "date": "2026-03-02T04:51:43.410Z",
+          "items": [
+            {
+              "id": "101",
+              "name": "Honor MagicBook X 15",
+              "brand": "Honor",
+              "price": 72000,
+              "purpose": "Student",
+              "image": "https://delta-game.ru/wp-content/uploads/2019/03/Dell-Alienware-M15-M15-5539.png",
+              "active": true,
+              "stock": 8,
+              "specs": {
+                "CPU": "Intel Core i5-1135G7",
+                "GPU": "Intel Iris Xe",
+                "RAM": "8GB DDR4",
+                "Storage": "512GB SSD",
+                "Display": "15.6\" FHD",
+                "Battery": "42Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 1
+            },
+            {
+              "id": "108",
+              "name": "Xiaomi Mi Notebook Pro",
+              "brand": "Xiaomi",
+              "price": 99000,
+              "purpose": "Work",
+              "image": "https://www.notebookcheck.net/fileadmin/_processed_/3/c/csm_Mi_Notebook_Pro_3_1d9506b15b.png",
+              "active": true,
+              "stock": 5,
+              "specs": {
+                "CPU": "Intel Core i7-11370H",
+                "GPU": "NVIDIA MX450",
+                "RAM": "16GB DDR4",
+                "Storage": "512GB SSD",
+                "Display": "15.6\" 3.5K OLED",
+                "Battery": "60Wh",
+                "OS": "Windows 11 Home"
+              },
+              "quantity": 1
+            }
+          ],
+          "subtotal": 171000,
+          "deliveryCharge": 100,
+          "tax": 20520,
+          "total": 191620,
+          "address": "coimbatur , Tamilnadu , 6767",
+          "city": "Coimbatur",
+          "state": "Tamilnadu",
+          "pincode": "9878",
+          "phone": "9567342765",
+          "status": "returned"
+        }
+      ],
+      "phone": "9567342765",
+      "city": "Coimbatur",
+      "state": "Tamilnadu",
+      "pincode": "9878",
+      "address": "coimbatur , Tamilnadu , 6767"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "name": "Dell Alienwer M15",
+      "brand": "Dell",
+      "price": 220000,
+      "purpose": "Gaming",
+      "image": "https://delta-game.ru/wp-content/uploads/2019/03/Dell-Alienware-M15-M15-5539.png",
+      "active": true,
+      "stock": 8,
+      "specs": {
+        "CPU": "Intel Core i7-12700H",
+        "GPU": "NVIDIA RTX 3070 Ti",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB SSD",
+        "Display": "15.6\" FHD 165Hz",
+        "Battery": "87Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Acer Predator Helios",
+      "brand": "Acer",
+      "price": 170000,
+      "purpose": "Gaming",
+      "image": "https://assets.videomaker.com/2023/01/Predator-Helios-16-PH16-71-01.png",
+      "active": true,
+      "stock": 3,
+      "specs": {
+        "CPU": "Intel Core i7-12700H",
+        "GPU": "NVIDIA RTX 3060",
+        "RAM": "16GB DDR5",
+        "Storage": "512GB SSD",
+        "Display": "16\" QHD 165Hz",
+        "Battery": "80Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Lenovo ThinkPad X1",
+      "brand": "Lenovo",
+      "price": 160000,
+      "purpose": "Professional",
+      "image": "https://www.pngall.com/wp-content/uploads/8/Lenovo-Laptop-PNG-Clipart.png",
+      "active": true,
+      "stock": 0,
+      "specs": {
+        "CPU": "Intel Core i7-1260P",
+        "GPU": "Intel Iris Xe",
+        "RAM": "16GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "14\" FHD",
+        "Battery": "57Wh",
+        "OS": "Windows 11 Pro"
+      }
+    },
+    {
+      "id": "4",
+      "name": "ASUS TUF Gaming F15",
+      "brand": "Asus",
+      "price": 110000,
+      "purpose": "Gaming",
+      "image": "https://www.asus.com/media/global/gallery/ibht3480pzgjpbde_setting_xxx_0_90_end_2000.png",
+      "active": true,
+      "stock": 10,
+      "specs": {
+        "CPU": "Intel Core i5-11400H",
+        "GPU": "NVIDIA GTX 1650",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD 144Hz",
+        "Battery": "48Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "5",
+      "name": "MacBook Air M1",
+      "brand": "Apple",
+      "price": 120000,
+      "purpose": "Student",
+      "image": "https://thegoodguys.sirv.com/products/50073770/50073770_751215.PNG?profile=social",
+      "active": true,
+      "stock": 6,
+      "specs": {
+        "CPU": "Apple M1",
+        "GPU": "Integrated 7-core GPU",
+        "RAM": "8GB Unified",
+        "Storage": "256GB SSD",
+        "Display": "13.3\" Retina",
+        "Battery": "18 hours",
+        "OS": "macOS Big Sur"
+      }
+    },
+    {
+      "id": "6",
+      "name": "HP Spectre x360",
+      "brand": "HP",
+      "price": 155000,
+      "purpose": "Professional",
+      "image": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c06254273.png",
+      "active": true,
+      "stock": 0,
+      "specs": {
+        "CPU": "Intel Core i7-1255U",
+        "GPU": "Intel Iris Xe",
+        "RAM": "16GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "13.5\" FHD Touch",
+        "Battery": "66Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "7",
+      "name": "ASUS ROG Strix G15",
+      "brand": "Asus",
+      "price": 165000,
+      "purpose": "Gaming",
+      "image": "https://dlcdnwebimgs.asus.com/gain/8B63759E-73EC-46D7-969C-90A146FE75FC/h300/w300",
+      "active": true,
+      "stock": 4,
+      "specs": {
+        "CPU": "AMD Ryzen 9 5900HX",
+        "GPU": "NVIDIA RTX 3060",
+        "RAM": "16GB DDR4",
+        "Storage": "1TB SSD",
+        "Display": "15.6\" FHD 300Hz",
+        "Battery": "90Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "8",
+      "name": "MacBook Pro M2",
+      "brand": "Apple",
+      "price": 180000,
+      "purpose": "Professional",
+      "image": "https://www.pngmart.com/files/23/Macbook-Pro-PNG-Photo.png",
+      "active": true,
+      "stock": 1,
+      "specs": {
+        "CPU": "Apple M2",
+        "GPU": "Integrated 10-core GPU",
+        "RAM": "16GB Unified",
+        "Storage": "512GB SSD",
+        "Display": "13.3\" Retina",
+        "Battery": "20 hours",
+        "OS": "macOS Ventura"
+      }
+    },
+    {
+      "id": "9",
+      "name": "MSI Modern 14",
+      "brand": "MSI",
+      "price": 90000,
+      "purpose": "Professional",
+      "image": "https://storage-asset.msi.com/global/picture/image/feature/nb/Modern/Modern14C7M/prod-phtoto-1.png",
+      "active": true,
+      "stock": 8,
+      "specs": {
+        "CPU": "Intel Core i5-1240P",
+        "GPU": "Intel Iris Xe",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "14\" FHD",
+        "Battery": "52Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "16",
+      "name": "Samsung Galaxy Book",
+      "brand": "Samsung",
+      "price": 98000,
+      "purpose": "Professional",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2024/01/samsung-galaxy-book-4-pro-16.png",
+      "active": true,
+      "stock": 5,
+      "specs": {
+        "CPU": "Intel Core i7-1255U",
+        "GPU": "Intel Iris Xe",
+        "RAM": "16GB LPDDR5",
+        "Storage": "512GB SSD",
+        "Display": "16\" AMOLED",
+        "Battery": "68Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "10067",
+      "name": "Razer Blade 15",
+      "brand": "Razer",
+      "price": 210000,
+      "purpose": "Gaming",
+      "image": "https://assets.razerzone.com/eeimages/support/products/1312/1312_blade_2018.png.png",
+      "active": true,
+      "stock": 1,
+      "specs": {
+        "CPU": "Intel Core i7-12800H",
+        "GPU": "NVIDIA RTX 3070 Ti",
+        "RAM": "16GB DDR5",
+        "Storage": "1TB SSD",
+        "Display": "15.6\" QHD 240Hz",
+        "Battery": "80Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "11",
+      "name": "Acer Aspire 7",
+      "brand": "Acer",
+      "price": 68000,
+      "purpose": "Student",
+      "image": "https://product.hstatic.net/1000233206/product/acer-aspire-7-a715-76g-5132-i5-12450h_2_ad87a077d61747e98f006e0c765b2cac_1024x1024.png",
+      "active": true,
+      "stock": 6,
+      "specs": {
+        "CPU": "Intel Core i5-12450H",
+        "GPU": "NVIDIA GTX 1650",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD",
+        "Battery": "48Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "12",
+      "name": "HP Victus",
+      "brand": "HP",
+      "price": 125000,
+      "purpose": "Gaming",
+      "image": "https://sm.ign.com/ign_in/screenshot/default/screenshot-2022-10-23-144700_3euh.png",
+      "active": true,
+      "stock": 9,
+      "specs": {
+        "CPU": "Intel Core i7-12700H",
+        "GPU": "NVIDIA RTX 3060",
+        "RAM": "16GB DDR5",
+        "Storage": "512GB SSD",
+        "Display": "16.1\" FHD 144Hz",
+        "Battery": "70Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "13",
+      "name": "Dell Inspiron 15",
+      "brand": "Dell",
+      "price": 75000,
+      "purpose": "Student",
+      "image": "https://clipart-library.com/image_gallery2/Laptop-PNG.png",
+      "active": true,
+      "stock": 7,
+      "specs": {
+        "CPU": "Intel Core i5-1235U",
+        "GPU": "Intel Iris Xe",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD",
+        "Battery": "42Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "14",
+      "name": "HP Pavilion 14",
+      "brand": "HP",
+      "price": 82000,
+      "purpose": "Student",
+      "image": "https://pngimg.com/uploads/laptop/laptop_PNG5904.png",
+      "active": true,
+      "stock": 3,
+      "specs": {
+        "CPU": "Intel Core i5-1235U",
+        "GPU": "Intel Iris Xe",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "14\" FHD",
+        "Battery": "45Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "15",
+      "name": "Lenovo IdeaPad Slim 5",
+      "brand": "Lenovo",
+      "price": 70000,
+      "purpose": "Student",
+      "image": "https://www.pngall.com/wp-content/uploads/8/Lenovo-Laptop-PNG-Free-Download.png",
+      "active": true,
+      "stock": 8,
+      "specs": {
+        "CPU": "Intel Core i5-1135G7",
+        "GPU": "Intel Iris Xe",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD",
+        "Battery": "45Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "101",
+      "name": "Honor MagicBook X 15",
+      "brand": "Honor",
+      "price": 72000,
+      "purpose": "Student",
+      "image": "https://delta-game.ru/wp-content/uploads/2019/03/Dell-Alienware-M15-M15-5539.png",
+      "active": true,
+      "stock": 7,
+      "specs": {
+        "CPU": "Intel Core i5-1135G7",
+        "GPU": "Intel Iris Xe",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD",
+        "Battery": "42Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "103",
+      "name": "Sony VAIO SX14",
+      "brand": "Sony",
+      "price": 145000,
+      "purpose": "Business",
+      "image": "https://store.vaio.com/ec/img/freepage/sx146/bronze_01_598x442.png",
+      "active": true,
+      "stock": 3,
+      "specs": {
+        "CPU": "Intel Core i7-1260P",
+        "GPU": "Intel Iris Xe",
+        "RAM": "16GB LPDDR4x",
+        "Storage": "1TB SSD",
+        "Display": "14\" FHD",
+        "Battery": "53Wh",
+        "OS": "Windows 11 Pro"
+      }
+    },
+    {
+      "id": "104",
+      "name": "Sony VAIO FE 15",
+      "brand": "Sony",
+      "price": 98000,
+      "purpose": "Work",
+      "image": "https://www.pngall.com/wp-content/uploads/12/Vaio-PNG-Image.png",
+      "active": true,
+      "stock": 4,
+      "specs": {
+        "CPU": "Intel Core i5-1235U",
+        "GPU": "Intel Iris Xe",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD",
+        "Battery": "50Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "105",
+      "name": "Microsoft Surface Laptop 5",
+      "brand": "Microsoft",
+      "price": 135000,
+      "purpose": "Business",
+      "image": "https://static1.xdaimages.com/wordpress/wp-content/uploads/2023/02/surface-laptop-5.png",
+      "active": true,
+      "stock": 6,
+      "specs": {
+        "CPU": "Intel Core i7-1255U",
+        "GPU": "Intel Iris Xe",
+        "RAM": "16GB LPDDR5",
+        "Storage": "512GB SSD",
+        "Display": "13.5\" PixelSense",
+        "Battery": "47Wh",
+        "OS": "Windows 11 Pro"
+      }
+    },
+    {
+      "id": "107",
+      "name": "Xiaomi RedmiBook 15",
+      "brand": "Xiaomi",
+      "price": 67000,
+      "purpose": "Student",
+      "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmibook-15/overview08-img.png",
+      "active": true,
+      "stock": 9,
+      "specs": {
+        "CPU": "Intel Core i5-11320H",
+        "GPU": "Intel UHD Graphics",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD",
+        "Battery": "46Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "108",
+      "name": "Xiaomi Mi Notebook Pro",
+      "brand": "Xiaomi",
+      "price": 99000,
+      "purpose": "Work",
+      "image": "https://www.notebookcheck.net/fileadmin/_processed_/3/c/csm_Mi_Notebook_Pro_3_1d9506b15b.png",
+      "active": true,
+      "stock": 4,
+      "specs": {
+        "CPU": "Intel Core i7-11370H",
+        "GPU": "NVIDIA MX450",
+        "RAM": "16GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" 3.5K OLED",
+        "Battery": "60Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "109",
+      "name": "Huawei MateBook D 15",
+      "brand": "Huawei",
+      "price": 75000,
+      "purpose": "Student",
+      "image": "https://www.itespresso.es/wp-content/uploads/2022/02/thumbnail_MateBook-D-15-AMD-1.png",
+      "active": true,
+      "stock": 6,
+      "specs": {
+        "CPU": "AMD Ryzen 5 5500U",
+        "GPU": "AMD Radeon Graphics",
+        "RAM": "8GB DDR4",
+        "Storage": "512GB SSD",
+        "Display": "15.6\" FHD IPS",
+        "Battery": "42Wh",
+        "OS": "Windows 11 Home"
+      }
+    },
+    {
+      "id": "110",
+      "name": "Huawei MateBook 14",
+      "brand": "Huawei",
+      "price": 92000,
+      "purpose": "Business",
+      "image": "https://consumer.huawei.com/content/dam/huawei-cbg-site/common/mkt/pdp/pc/matebook-d-14-2023/img/screen/huawei-matebook-d-14-2023-screen.png",
+      "active": true,
+      "stock": 4,
+      "specs": {
+        "CPU": "Intel Core i7-1260P",
+        "GPU": "Intel Iris Xe",
+        "RAM": "16GB LPDDR4x",
+        "Storage": "1TB SSD",
+        "Display": "14\" 2K IPS",
+        "Battery": "56Wh",
+        "OS": "Windows 11 Home"
+      }
+    }
+  ]
+}
